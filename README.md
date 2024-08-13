@@ -11,12 +11,8 @@
 이러한 기술적 개선은 팀의 전반적인 작업 효율성을 크게 향상시켰고, 프로젝트의 성공적인 완료로 이어졌습니다.
 최종적으로, 저희 팀은 본선에 진출하여 프로젝트 결과를 전국 대회에서 발표함으로써 성과를 인정받았습니다.
 이 경험은 적절한 기법을 활용한 데이터 분석의 중요성과 데이터 사이언스의 힘을 깊이 이해하게 하였습니다.
-# 구동모습
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/wnghdcjfe/IUtoon/develop/example.gif" width="300">
-</p> 
 
-# 프론트 메인 기술
+# 메인 기술
  - 패러랙스스크롤
  - fadein Effect
  - sticky CSS
@@ -26,12 +22,8 @@
  - 스타수10 이상 : SVG 및 아이유 애니메이션 구현
  - 스타수20 이상 : lSA, KNN, AutoEncoder 등을 이용한 아이유곡 IP 기반 / 컨텐츠기반 추천시스템구현
 
-# 링크
-http://kundol.kr
-
 # 담당 
- - 프론트엔드, 코드리팩토링 : 주홍철(큰돌)
- - 백엔드    : 남승원(선린고1) 
+ - 데이터 수집, 데이터 정제, 모델링, 시각화
 
 # 다음웹툰 UI 
 <p align="center"> 
@@ -39,25 +31,7 @@ http://kundol.kr
 </p> https://raw.githubusercontent.com/wnghdcjfe/IUtoon/develop/DAUMUI.gif
  
 ## 구동방법
- - 백엔드 : back-end/README.md참조
- - 프론트엔드 : front-backend/README.md참조
-
-### 클라이언트 스펙
- - `React`  
- - `styled-components`
- - `React-apollo`
- - `graphql` 
-
-### 백엔드 스펙  
- - `Node.js`
- - `Express.js`
- - `MongoDB & node.js Driver` 
- - `React-apollo`
- - `graphql`  
-
-# 참고링크
- - https://brunch.co.kr/@kakao-it/279
- - https://twitter.com/allofiu 
+ - 코드 & 결과/README.md참조
 
 # 참고자료
 카카오아레나 음악 추천시스템 대회 태그자료 https://arena.kakao.com/
