@@ -35,6 +35,5 @@
 
 # 참고자료
 K-CCRC 보고서 
-<p align="center"> 
-  <img src="https://github.com/kimseongho3077/K-CCRC/blob/main/KCCRC%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" width="300">
-</p>
+https://github.com/kimseongho3077/K-CCRC/blob/main/KCCRC%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf
+
