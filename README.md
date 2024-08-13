@@ -27,7 +27,7 @@
 
 # 다음웹툰 UI 
 <p align="center"> 
-  <img src="https://github.com/wnghdcjfe/IUtoon/blob/develop/DAUMUI.gif" width="300">
+  <img src="https://github.com/kimseongho3077/K-CCRC/blob/main/%EC%BD%94%EB%93%9C%20%26%20%EA%B2%B0%EA%B3%BC/%EC%B5%9C%EC%A2%85%ED%9B%84%EB%B3%B4%EC%A7%80.csv" width="300">
 </p> https://raw.githubusercontent.com/wnghdcjfe/IUtoon/develop/DAUMUI.gif
  
 ## 구동방법
