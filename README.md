@@ -28,7 +28,7 @@
  - 코드 & 결과/README.md참조
 
 # 참고자료
-  K-CCRC 보고서
+  [K-CCRC 보고서](https://github.com/kimseongho3077/K-CCRC/blob/main/KCCRC%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
   
-  https://github.com/kimseongho3077/K-CCRC/blob/main/KCCRC%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf
+  
 
