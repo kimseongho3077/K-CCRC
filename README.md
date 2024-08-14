@@ -1,5 +1,5 @@
-# K-CCRC 최적 입지 선정
-  https://github.com/kimseongho3077/K-CCRC/blob/main/k-ccrc%20%EC%B5%9C%EC%A0%81%20%EC%9E%85%EC%A7%80%20%EC%84%A0%EC%A0%95.pdf
+# [K-CCRC 최적 입지 선정](https://github.com/kimseongho3077/K-CCRC/blob/main/k-ccrc%20%EC%B5%9C%EC%A0%81%20%EC%9E%85%EC%A7%80%20%EC%84%A0%EC%A0%95.pdf)
+  
   
   한국데이터산업진흥원에서 주관하는 데이터청년 캠퍼스 프로그램을 통해 사회적인 문제 해결을 위한 데이터 분석을 진행하여 한국 은퇴자 주거복합단지(k-ccrc)의 최적입지를 선정한 경험이 있습니다. 
   프로젝트의 목표는 초고령 사회에서 발생하는 노인 복지센터의 포화와 병원 예약 문제를 해결하는 것이었습니다.
